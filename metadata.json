@@ -1,0 +1,7 @@
+{
+  "name": "Medical Notebook",
+  "description": "Securely manage doctor appointments, record consultations, and generate AI-powered medical transcripts and summaries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
